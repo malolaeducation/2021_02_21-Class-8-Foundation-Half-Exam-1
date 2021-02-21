@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no" ?>
-<presentation availableOffline="1" guid="AA5A3226-2C2F-4E2D-812D-0279E563F155" version="0">
+<presentation availableOffline="1" guid="CF5ED53D-2CC9-408B-8F16-9C33BA90709B" version="0">
 	<info>
 		<title>2021_02_21 Class-8  Foundation Half Exam-1</title>
 		<description/>
 	</info>
-	<files index="id37" thumbnail="id33" totalSize="3221779">
+	<files index="id37" thumbnail="id33" totalSize="3220713">
 		<file id="id0">data/apple-touch-icon.png</file>
 		<file id="id1">data/browsersupport.js</file>
 		<file id="id2">data/favicon.ico</file>
